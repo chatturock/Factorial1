@@ -4,5 +4,5 @@ def factorial(n):
         fact = fact * i
     return fact
 
-num = 6
+num = 54
 print("Factorial of", num, "=", factorial(num))
