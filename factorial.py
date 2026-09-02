@@ -6,3 +6,4 @@ def factorial(n):
 
 num = 5
 print("Factorial of", num, "=", factorial(num))
+print("Jenkins automatic build test")
